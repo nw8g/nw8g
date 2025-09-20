@@ -1,5 +1,5 @@
 ### weessk
-> just a guy who enjoys ratting ppl, u mad bro? 🤡  
+> just a guy who enjoys ratting ppl, u mad bro? 
 > code sometimes, break things often, fix nothing 
 
 ---
@@ -18,7 +18,7 @@
 
 ---
 
-### // things i do when im bored 🕵️‍♂️
+### // things i do when im bored 
 - **offensive tooling:** custom payloads & c2 development (ur antivirus hates this trick)
 - **evasion tactics:** researching av/edr bypass techniques (playing hide n seek with defenders)
 - **system internals:** persistence, hooking, and reverse engineering (making malware analysts cry)
@@ -34,22 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=weessk&show_icons=true&theme=dracula&border_radius=10&v=1" alt="stats (inflated by readme commits)" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weessk&layout=compact&theme=dracula&border_radius=10&v=1" alt="langs (50% copy paste)" width="49%"/>
 </p>
-
----
-
-### 🏆 current achievements 
-- successfully compiled hello world without stackoverflow ✅
-- made 1 person rage quit from my tools 😎
-- avoided getting sued so far 🤞
-- bugs created vs bugs fixed: ∞:0 (perfectly balanced)
-
----
-
-### 📊 what im actually working on (when motivation kicks in)
-- some roblox related stuff (kids crying simulator)
-- av evasion research (making signature writers work overtime)  
-- random reverse engineering projects (taking apart shit i dont understand)
-- contributing to public repos (rarely, social anxiety too strong)
 
 ---
 
