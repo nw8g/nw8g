@@ -1,9 +1,7 @@
-### weessk
+### nw8g
 > just a guy who enjoys ratting ppl, u mad bro? 
 > code sometimes, break things often, fix nothing 
-
 ---
-
 ### > shit i pretend to know 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="60" alt="C++ Logo" title="C++ (segfaults included)"/>&nbsp;&nbsp;
@@ -31,14 +29,14 @@
 
 ### > my mid stats (github lying as usual)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=weessk&show_icons=true&theme=dracula&border_radius=10&v=1" alt="stats (inflated by readme commits)" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weessk&layout=compact&theme=dracula&border_radius=10&v=1" alt="langs (50% copy paste)" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nw8g&show_icons=true&theme=dracula&border_radius=10&v=1" alt="stats (inflated by readme commits)" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nw8g&layout=compact&theme=dracula&border_radius=10&v=1" alt="langs (50% copy paste)" width="49%"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=weessk&color=ff003c&style=for-the-badge&label=CREEPS+WATCHING" alt="Profile Stalkers"/>
+  <img src="https://komarev.com/ghpvc/?username=nw8g&color=ff003c&style=for-the-badge&label=CREEPS+WATCHING" alt="Profile Stalkers"/>
 </p>
 
 <p align="center">
@@ -46,3 +44,7 @@
 </p>
 
 ---
+
+<p align="center">
+<sub>dc: nw8g // for questions or whatever, dont be weird</sub>
+</p>
