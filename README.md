@@ -45,5 +45,5 @@
 ---
 
 <p align="center">
-<sub>dc: nw8g // for questions or whatever, dont be weird</sub>
+<sub>dc: x64byte // for questions or whatever, dont be weird</sub>
 </p>
