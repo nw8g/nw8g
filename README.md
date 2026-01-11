@@ -20,7 +20,7 @@
 - **evasion tactics:** researching av/edr bypass techniques (playing hide n seek with defenders)
 - **system internals:** persistence, hooking, and reverse engineering (making malware analysts cry)
 - **exploit development:** prototyping and vulnerability analysis (0days go brrrr)
-- **game hacking:** memory scanning, dll injection, basically ruining kids' days 🎮
+- **game hacking:** memory scanning, dll injection, basically ruining kids' days 
 
 > side note: everything here is for educational purposes obvs, dont blame me if u get v&
 
@@ -45,5 +45,5 @@
 ---
 
 <p align="center">
-<sub>dc: x64byte // for questions or whatever, dont be weird</sub>
+<sub>dc: nw8g </sub>
 </p>
